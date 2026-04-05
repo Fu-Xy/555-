@@ -6,3 +6,8 @@
 然后它将通过电容耦合，进入我们的一个放大器，基于晶体管的电流放大器。我们这有一个大型电容器作为储能电容器，因为我们会抽取大量电流，当这个设备启动时，会产生大量电流，然后我们有10K和1K的电阻用来设置我们的偏置点，从电源到集电极有一个二极管，它是我们的续流二极管，因为这里有感性负载，我们不想烧坏晶体管。
 <img width="717" height="436" alt="image" src="https://github.com/user-attachments/assets/097a400b-4615-497f-af41-1dcf11b75c57" />
 
+音阶：
+<img width="850" height="485" alt="image" src="https://github.com/user-attachments/assets/61c07555-efb2-4685-93cf-e387aac7916b" />
+C4到C5是一组音阶，C4算是中等音区，黑键被称为升音键，白键被称为降音键，C4、C4升、D4、D4升、E4、F4、F4升、G4、G4升、A4、A4升、B4，这就是我们想要复制的东西，我们想截取键盘这一小部分，然后模仿它，所以我们需要知道这些东西的频率是多少
+<img width="1027" height="187" alt="image" src="https://github.com/user-attachments/assets/7bc87c26-720f-4de7-8491-3ae700e7c3b3" />
+
