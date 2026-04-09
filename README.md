@@ -10,4 +10,5 @@
 <img width="850" height="485" alt="image" src="https://github.com/user-attachments/assets/61c07555-efb2-4685-93cf-e387aac7916b" />
 C4到C5是一组音阶，C4算是中等音区，黑键被称为升音键，白键被称为降音键，C4、C4升、D4、D4升、E4、F4、F4升、G4、G4升、A4、A4升、B4，这就是我们想要复制的东西，我们想截取键盘这一小部分，然后模仿它，所以我们需要知道这些东西的频率是多少
 <img width="1027" height="187" alt="image" src="https://github.com/user-attachments/assets/7bc87c26-720f-4de7-8491-3ae700e7c3b3" />
+添加电压调节器的目的是我们想用一个9V电池，然后将其降压调节到5V，我们希望这个稳压效果保持良好和稳定。LDO低压差线性稳压器，只需要很小的压差在稳定输出电压和输入电压之间
 
